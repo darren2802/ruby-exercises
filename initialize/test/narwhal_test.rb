@@ -29,4 +29,5 @@ class NarwhalTest < Minitest::Test
     assert_equal 499, neville.weight
     assert_equal "Neville", neville.name
   end
+
 end
